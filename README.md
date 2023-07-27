@@ -29,7 +29,7 @@ The dataset revealed that a small handful of microbial species (also called oper
      * Used otu_ids for the marker colors.
      * Used otu_labels for the text values.
     
-4. Displayed the sample metadata, i.e., an individual's demographic information.
+4. Displayed the sample metadata; i.e., an individual's demographic information.
    
 5. Displayed each key-value pair from the metadata JSON object on the page.
    
