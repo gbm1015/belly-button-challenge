@@ -10,7 +10,7 @@ The dataset revealed that a small handful of microbial species (also called oper
 
 1. I created a new repository in GitHub for this project called `belly-button-challenge`. 
 2. Inside the new repository I cloned the new repository to my computer.
-3. Inside my local Git repository, I added the files from the StarterCode folder that was within the Module 14 Challenge zip file.  The folder included the following files: index.html, sample.json (the dataset that was provided for reference; we were required to access the samples.json file locally from the website), and the static folder which included the app.js file within the js folder.
+3. Inside my local Git repository, I added the files from the StarterCode folder that was within the Module 14 Challenge zip file.  The folder included the following files: index.html, sample.json (the dataset that was provided for reference; we were required to access the samples.json file locally from the website), and the static folder which included the JavaScript app.js file within the js folder.
 4. I copied the starter code that was provided by our class instructor, to help us get started with the assignment, to the app.js.
 
 ## Steps for Building the Interactive Dashboard
