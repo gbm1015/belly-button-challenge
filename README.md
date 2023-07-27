@@ -42,7 +42,5 @@ The dataset revealed that a small handful of microbial species (also called oper
 ## References
 
 1. Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
-
 2. homeworkOutline14.js, javascript starter code provided by our bootcamp instructor.
-
 3. https://www.w3schools.com/git/git_remote_pages.asp?remote=github, provided instructions for how to deploy an app to GitHub Pages.
