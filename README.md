@@ -33,9 +33,9 @@ The dataset revealed that a small handful of microbial species (also called oper
    
 5. Displayed each key-value pair from the metadata JSON object on the page.
    
-6. Updated all the plots when a new sample is selected.
+6. Updated all the plots when a new sample was selected.
    
-7. Deployed the app to a free static page hosting service, GitHub Pages.  It is posted at https://gbm1015.github.io/belly-button-challenge.github.io/
+7. Deployed the app to a free static page hosting service, GitHub Pages.  Posted at https://gbm1015.github.io/belly-button-challenge.github.io/
    
 8. Submitted the links to the deployment and the GitHub repository, while ensuring that the repository had regular commits and a thorough README.md file.
 
